@@ -19,3 +19,11 @@
     console.log(`Hello ${name},${age}`);
 })
 ('Akshita',20);
+
+console.log(
+    ((a,b)=> {
+    return a*b;
+})
+(5,4)
+);
+
