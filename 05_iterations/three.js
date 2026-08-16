@@ -30,3 +30,6 @@ const myObject = {
     'game1' : 'NFS',
     'game2' : 'spiderman'
 }
+//for of does not work on object they are not 
+// iteratable by for of
+// there are other ways to iterate on objects
